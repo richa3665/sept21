@@ -1,7 +1,10 @@
 public class hello
 
     {
-	    punlic static hello {}
+	    public static void(string[] args)
+	    {
+		    system.out.print("hello");
+	    }
 
 
     }
